@@ -1,4 +1,4 @@
-# CNCF Technologies Demonstration
+# CNCF Technologies Demonstration k
 The goal of this project is to demonstrate each of the technologies that have been adopted by the [Cloud Native Computing Foundation](http://cncf.io) (CNCF) in a publicly available repository in order to facilitate their understanding through simple deployment tooling and by providing sample applications as common-ground for conversation. This project will enable replicable deployments and facilitate quantification of performance, latency, throughput, and cost between various deployment models.
 
 ## Beta Preview
@@ -702,5 +702,4 @@ A possible way to improve things is by introducing:
 - Long running custom clusters spun up for each permutation of minor version updates (kubernetes version bump, weave, flannel, etcd, and so on)
 
 - A deterministic demo app/deployment as a comprehensive smoketest & benchmark
-
 The community need to mix and match the multiple supported components with arbitrary necessary for custom deployments can be benefit from a set of "blessed"  kubernetes-flavored host OS images and a more typical real-world artifact to check their customizations against.
