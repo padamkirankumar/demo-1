@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # CNCF Technologies Demonstration k
-=======
-# CNCF Technologies Demonstration k8
->>>>>>> 569c75aa289b2a3b4c13dc19fe3c396101a81e32
 The goal of this project is to demonstrate each of the technologies that have been adopted by the [Cloud Native Computing Foundation](http://cncf.io) (CNCF) in a publicly available repository in order to facilitate their understanding through simple deployment tooling and by providing sample applications as common-ground for conversation. This project will enable replicable deployments and facilitate quantification of performance, latency, throughput, and cost between various deployment models.
 
 ## Beta Preview
